@@ -1,0 +1,7 @@
+C:\Users\Austin\source\repos\RNG Bubble Sort\RNG Bubble Sort\bin\Debug\RNG Bubble Sort.exe.config
+C:\Users\Austin\source\repos\RNG Bubble Sort\RNG Bubble Sort\bin\Debug\RNG Bubble Sort.exe
+C:\Users\Austin\source\repos\RNG Bubble Sort\RNG Bubble Sort\bin\Debug\RNG Bubble Sort.pdb
+C:\Users\Austin\source\repos\RNG Bubble Sort\RNG Bubble Sort\obj\Debug\RNG Bubble Sort.csprojResolveAssemblyReference.cache
+C:\Users\Austin\source\repos\RNG Bubble Sort\RNG Bubble Sort\obj\Debug\RNG Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\RNG Bubble Sort\RNG Bubble Sort\obj\Debug\RNG Bubble Sort.exe
+C:\Users\Austin\source\repos\RNG Bubble Sort\RNG Bubble Sort\obj\Debug\RNG Bubble Sort.pdb
